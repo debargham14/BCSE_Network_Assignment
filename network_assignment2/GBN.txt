@@ -1,0 +1,18 @@
+
+Debargha is sending data to Mukerjee--------------------
+Total packet sent = 2346
+Effective packet sent = 713
+Total time taken = 8.298121 minutes
+Receiver Throughput =    824 bps
+Utilization percentage =  20.62 %
+Average Successful Transmission time of a packet = 0.698299 seconds/packet
+
+
+Deb_sender3 is sending data to Deb_receiver3--------------------
+Total packet sent = 645
+Effective packet sent = 208
+Total time taken = 2.487873 minutes
+Receiver Throughput =    802 bps
+Utilization percentage =  20.07 %
+Average Successful Transmission time of a packet = 0.717656 seconds/packet
+

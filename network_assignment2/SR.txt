@@ -1,0 +1,8 @@
+Debargha is sending data to Mukherjee--------------------
+Total packet sent = 45
+Effective packet sent = 16
+Total time taken = 0.199779 minutes
+Receiver Throughput =    768 bps
+Utilization percentage =  17.09 %
+Average Successful Transmission time of a packet = 0.749173 seconds/packet
+
