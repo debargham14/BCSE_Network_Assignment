@@ -1,0 +1,7 @@
+
+Test run report with 4 senders--------------------
+Total packet sent = 184 per sender
+Total time taken = 9.297938 seconds
+Effective bandwidth = 79 bps
+Successful Transmission Time = 0.050532 seconds per packet
+
