@@ -5,3 +5,10 @@ Total time taken = 9.297938 seconds
 Effective bandwidth = 79 bps
 Successful Transmission Time = 0.050532 seconds per packet
 
+
+Test run report with 4 senders--------------------
+Total packet sent = 184 per sender
+Total time taken = 9.392571 seconds
+Effective bandwidth = 78 bps
+Successful Transmission Time = 0.051047 seconds per packet
+
